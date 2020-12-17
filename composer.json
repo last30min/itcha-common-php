@@ -1,0 +1,18 @@
+{
+    "name": "last30min/common-libraries",
+    "description": "마지막삼십분 공통개발을 위한 라이브러리 개발",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Last30min",
+            "email": "deve@last30min.com"
+        }
+    ],
+    "require": {}
+}
